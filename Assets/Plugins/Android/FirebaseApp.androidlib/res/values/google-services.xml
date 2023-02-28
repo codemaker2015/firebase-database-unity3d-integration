@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://jumper-378216-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">109891479257</string>
+  <string name="google_storage_bucket" translatable="false">jumper-378216.appspot.com</string>
+  <string name="project_id" translatable="false">jumper-378216</string>
+  <string name="google_api_key" translatable="false">AIzaSyDzzeWETpNlhAEj2UYEALbEo0FDSFnrVyY</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDzzeWETpNlhAEj2UYEALbEo0FDSFnrVyY</string>
+  <string name="google_app_id" translatable="false">1:109891479257:android:a8f738b8b5c321fc5d40c8</string>
+  <string name="default_web_client_id" translatable="false">109891479257-gdd25lrrua4uhvgh1050daokdol62lc4.apps.googleusercontent.com</string>
+</resources>
